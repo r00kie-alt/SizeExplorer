@@ -30,7 +30,7 @@ Enter the sort order (asc for ascending, desc for descending): desc
 
 ## Example Output
 
-Subfolder1: 52.30 MB
-Subfolder2: 38.75 MB
-Subfolder3: 21.45 MB
+Subfolder1: 52.30 MB__
+Subfolder2: 38.75 MB__
+Subfolder3: 21.45 MB__
 ...
