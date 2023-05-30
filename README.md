@@ -1,4 +1,4 @@
-#SizeExplorer
+# SizeExplorer
 
 Size Explorer is a Python script that analyzes the sizes of subfolders within a parent folder. 
 It provides insights into the disk space occupied by each subfolder, helping you identify which subfolders are taking up the most space.
