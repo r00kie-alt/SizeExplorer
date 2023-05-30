@@ -13,10 +13,7 @@ It provides insights into the disk space occupied by each subfolder, helping you
 
 ## Usage
 1.Run the script
-2.Follow the prompts
-	2.1 Enter the path of the parent folder
-	2.2 Select the unit you wish the size to be displayed as
-	2.3 Select the sort order
+2.Follow the prompts (enter path of parent file, select unit size, and choose sort order)
 3.Read the output!
 
 ## Example Usage
