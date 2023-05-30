@@ -12,9 +12,9 @@ It provides insights into the disk space occupied by each subfolder, helping you
 - User-friendly command-line interface
 
 ## Usage
-1.Run the script
-2.Follow the prompts (enter path of parent file, select unit size, and choose sort order)
-3.Read the output!
+1.Run the script\
+2.Follow the prompts (enter path of parent file, select unit size, and choose sort order)\
+3.Read the output!\
 
 ## Example Usage
 
